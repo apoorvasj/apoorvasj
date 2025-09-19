@@ -12,6 +12,9 @@
 <a href="https://badgr.com/public/assertions/YVfoCAPGRn6mDFm6QdHsdA?identity__email=apoorva.sjagadeesan2022@vitstudent.ac.in">
 <img src="https://api.badgr.io/public/assertions/YVfoCAPGRn6mDFm6QdHsdA/image" width="100px" height="100px" />
 <a href="#">
+<a href="https://www.cloudskillsboost.google/public_profiles/0abba9b8-3751-418d-ade9-3fe637ea73dc">
+<img src="https://cdn.qwiklabs.com/E5xlPYsNANSPMuPoZln7rSlYRKlY%2BLjrl1bP70dqXkM%3D" width="100px" height="100px" />
+<a href="#">
 </div>
 
 
