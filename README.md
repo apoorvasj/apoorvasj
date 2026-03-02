@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @apoorvasj
 - I'm currently in my final year of my B.Tech Computer Science degree, specialising in Data Science.
 - 🌱 I’m currently learning Agentic AI using LangChain and LangGraph
+- 😄 I'm also an LFX Mentee for Magma!
 - ⚡I love participating in hackathons, I enjoy the dynamic and rapid pace of development! I have played multiple roles in hackathons, diving into design, web development, chatbots, app development, generative AI and AI/ML.
 
   <h3> Badges </h3>
