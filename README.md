@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @apoorvasj
-- I'm currently in my final year of my B.Tech Computer Science degree, specialising in Data Science.
-- 🌱 I’m currently learning Agentic AI using LangChain and LangGraph
-- 😄 I'm also an LFX Mentee for Magma!
+- I have a degree in Computer Science, specialising in Data Science.
+- 🌱 I’m currently working as a AI Engineer! Exploring knowledge graphs, graph data science algorithms and the Model Context Protocol.
+- 😄 My last open source contribution - I was a Linux Foundation Mentee for the Magma project.
 - ⚡I love participating in hackathons, I enjoy the dynamic and rapid pace of development! I have played multiple roles in hackathons, diving into design, web development, chatbots, app development, generative AI and AI/ML.
 
   <h3> Badges </h3>
@@ -16,6 +16,8 @@
 <a href="https://www.cloudskillsboost.google/public_profiles/0abba9b8-3751-418d-ade9-3fe637ea73dc">
 <img src="https://cdn.qwiklabs.com/E5xlPYsNANSPMuPoZln7rSlYRKlY%2BLjrl1bP70dqXkM%3D" width="100px" height="100px" />
 <a href="#">
+<a href="https://www.credly.com/badges/3c5d8bc1-8f04-48a2-b005-dc8782ea2991">
+<img src="https://images.credly.com/size/680x680/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png" width="100px" height="100px" />
 </div>
 
 
